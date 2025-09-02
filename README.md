@@ -5,7 +5,7 @@ My name is Simeon, I bridge my SOC background with cloud security engineering to
 🔭 I’m leveraging Terraform to build, secure, and manage scalable Azure infrastructure.
 
 ⚡ Fun fact: I’m certified in CompTIA Security+, CySA+, and Azure Security Engineer Associate, but I also bring the mindset of an athlete and veteran, I’ve competed at the highest levels in wrestling and served in the military, training alongside special forces.
-I was the first in my family to graduate college and the first state champion in my high school’s history, so I know what it means to build something from the ground up.
+I was the first state champion in my high school’s history, so I know what it means to build something from the ground up.
 
 <!--
 **simeon20/simeon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
