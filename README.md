@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-My name is Simeon, I bridge my SOC background with cloud security engineering to help organizations detect, contain, and prevent threats in both on-prem and cloud-native infrastructures.
+My name is Simeon. I’m a Cloud Security Engineer with a strong SOC and incident response background, bridging security operations with secure cloud architecture to help organizations detect, contain, and prevent threats across hybrid and cloud-native environments.
 
-🔭 I’m leveraging Terraform to build, secure, and manage scalable Azure infrastructure to cut costs and boost efficiency.
+I design and operate high-availability, security-first AWS and Azure architectures, with hands-on experience building internet-facing and internal systems using load balancing, IAM, network segmentation, secrets management, and observability to validate real-world resilience.
 
-⚡ Fun fact: I’m certified in CompTIA Security+, CySA+, and Azure Security Engineer Associate, but I bring the discipline of an athlete and the leadership of a veteran. I’ve competed at the highest levels in wrestling, served in the military training alongside Special Forces and Rangers, and became the first state champion in my high school’s history. These experiences shaped my ability to perform under pressure, master advanced techniques, and consistently deliver at a high level.
+🔭 I leverage Terraform to build, secure, and govern scalable cloud infrastructure, focusing on least privilege, fault tolerance, cost optimization, and operational visibility.
+
+⚡ Fun fact: I’m certified in CompTIA Security+, CySA+, Azure Security Engineer Associate, and AWS Solutions Architect – Associate, and I bring the discipline of a veteran and competitive athlete. I’ve trained alongside Special Forces and Rangers, competed at the highest levels of wrestling, and became the first state champion in my high school’s history—experiences that shaped my ability to perform under pressure, master complex systems, and consistently deliver results.
 
 <!--
 **simeon20/simeon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
