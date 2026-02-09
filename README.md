@@ -6,7 +6,7 @@ I design and operate high-availability, security-first AWS and Azure architectur
 
 🔭 I leverage Terraform to build, secure, and govern scalable cloud infrastructure, focusing on least privilege, fault tolerance, cost optimization, and operational visibility.
 
-⚡ Fun fact: I’m certified in CompTIA Security+, CySA+, Azure Security Engineer Associate, and AWS Solutions Architect – Associate, and I bring the discipline of a veteran and competitive athlete. I’ve trained alongside Special Forces and Rangers, competed at the highest levels of wrestling, and became the first state champion in my high school’s history—experiences that shaped my ability to perform under pressure, master complex systems, and consistently deliver results.
+⚡ Fun fact: I’m certified in CompTIA Security+, CySA+, Azure Security Engineer Associate, and AWS Solutions Architect Associate, and I bring the discipline of a veteran and competitive athlete. I’ve trained alongside Special Forces and Rangers, competed at the highest levels of wrestling, and became the first state champion in my high school’s history—experiences that shaped my ability to perform under pressure, master complex systems, and consistently deliver results.
 
 <!--
 **simeon20/simeon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
