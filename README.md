@@ -14,7 +14,7 @@ Certifications: AWS Solutions Architect – Associate | AZ-500 | Security+ | CyS
 
 ### 📚 Systems Engineering Portfolio
 
-Explore my collection of **22 technical troubleshooting cases and 5 engineering projects** covering enterprise networking, virtualization, Windows Server, AWS, Azure, and infrastructure automation.
+Explore my collection of technical troubleshooting cases and  engineering projects** covering enterprise networking, virtualization, Windows Server, AWS, Azure, and infrastructure automation.
 
 [**View My Technical Portfolio**](https://simeon-systems.notion.site/Systems-Engineering-Case-Study-Index-3eecc20eae9680a1854bd848b2dd8137)
 
