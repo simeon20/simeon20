@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm Simeon,
+## Hi, I'm Simeon👋
 
 U.S. Army Veteran and Network & Systems Administrator specializing in enterprise infrastructure, networking, virtualization, and cloud technologies.
 
