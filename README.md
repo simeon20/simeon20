@@ -12,6 +12,12 @@ Technologies: Windows Server | Hyper-V | Cisco Meraki | AWS | Azure | PowerShell
 
 Certifications: AWS Solutions Architect – Associate | AZ-500 | Security+ | CySA+
 
+### 📚 Systems Engineering Portfolio
+
+Explore my collection of **22 technical troubleshooting cases and 5 engineering projects** covering enterprise networking, virtualization, Windows Server, AWS, Azure, and infrastructure automation.
+
+[**View My Technical Portfolio**](https://simeon-systems.notion.site/Systems-Engineering-Case-Study-Index-3eecc20eae9680a1854bd848b2dd8137)
+
 <!--
 **simeon20/simeon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
