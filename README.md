@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-Cloud & Systems Engineer focused on secure infrastructure, automation, and observability across AWS and Azure.
+Hi, I'm Simeon 👋
+
+U.S. Army Veteran and Network & Systems Administrator specializing in enterprise infrastructure, networking, virtualization, and cloud technologies.
+
+Experienced with Windows Server, Active Directory, Hyper-V, Cisco Meraki, AWS, and Azure. Passionate about troubleshooting complex infrastructure issues, automation, and building secure, reliable systems.
+
+My GitHub showcases hands-on cloud engineering projects, infrastructure automation, and real-world troubleshooting.
+
+Technologies: Windows Server | Hyper-V | Cisco Meraki | AWS | Azure | PowerShell | Terraform
+
+Certifications: AWS Solutions Architect – Associate | AZ-500 | Security+ | CySA+
 
 <!--
 **simeon20/simeon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
